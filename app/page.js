@@ -4,7 +4,7 @@ export const metadata = {
 export default function Home() {
   return (
     <div>
-      <h1>Hello world!</h1>
+      <h1>My first NextJS Project 🧡</h1>
     </div>
   );
 }
